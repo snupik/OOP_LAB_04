@@ -1,0 +1,12 @@
+﻿  lock.cpp
+c:\users\muroslav\source\repos\oop_lab_04\oop_lab_04\lock.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+c:\users\muroslav\source\repos\oop_lab_04\oop_lab_04\main.cpp(64): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\muroslav\source\repos\oop_lab_04\oop_lab_04\main.cpp(67): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\muroslav\source\repos\oop_lab_04\oop_lab_04\main.cpp(70): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\muroslav\source\repos\oop_lab_04\oop_lab_04\main.cpp(73): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\muroslav\source\repos\oop_lab_04\oop_lab_04\main.cpp(76): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  prog.cpp
+c:\users\muroslav\source\repos\oop_lab_04\oop_lab_04\prog.cpp(32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  OOP_LAB_04.vcxproj -> C:\Users\Muroslav\source\repos\OOP_LAB_04\Debug\OOP_LAB_04.exe
